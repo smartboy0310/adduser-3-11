@@ -1,0 +1,14 @@
+.button {
+   width: 100%;
+   max-width: 150px;
+   padding: 5px 25px;
+   background-color: aqua;
+   border-radius: 5px;
+}
+.button:hover {
+   background-color: aquamarine;
+}
+.button:active {
+   background-color: dodgerblue;
+   color: #fff;
+}
